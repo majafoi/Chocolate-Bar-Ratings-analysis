@@ -14,5 +14,3 @@ Table of contents is:
   1) Summaries - FIVENUM and graphics
   2) Correlation analysis + Shapiro-Wilk testing + testing for normality
   3) Regression analysis
-
-Since content is probably going to be read by non-data scientists and programmers, I've put one secluded PDF in the repository named CBR Analysis - Report. There you can read findings in short. If you are interested in the code itself, you can read the PDF called CBR - analysis code
