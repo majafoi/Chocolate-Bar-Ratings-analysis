@@ -10,7 +10,9 @@ THE MAIN GOAL - show various statistical methods used on this dataset
 We all know that chocolate is one of the favorite food in the whole world, possibly even yours, so you must’ve know that every chocolate has its own flavor and texture.
 The database I found on Kaggle website (https://www.kaggle.com/rtatman/chocolate-bar-ratings) (there is an updated version on the original page - http://flavorsofcacao.com/chocolate_database.html), focuses only on plain dark chocolate.
 
-Table of content is:
+Table of contents is:
   1) Summaries - FIVENUM and graphics
   2) Correlation analysis + Shapiro-Wilk testing + testing for normality
   3) Regression analysis
+
+Since content is probably going to be read by non-data scientists and programmers, I've put one secluded PDF in the repository named CBR Analysis - Report. There you can read findings in short. If you are interested in the code itself, you can read the PDF called CBR - analysis code
