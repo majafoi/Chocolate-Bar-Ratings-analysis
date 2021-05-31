@@ -1,8 +1,9 @@
-# Chocolate-Bar-Ratings-analysis
+# Analysis about chocolate bars and their ratings
 
 
-Hello, everyone!
-This time, I’m going to make an analysis of a dataset called Chocolate Bar Ratings. The main goal is to show various statistical methods used on this dataset, without any particular conclusions.
+This repository is about an analysis of a dataset called Chocolate Bar Ratings. 
+
+THE MAIN GOAL - show various statistical methods used on this dataset
 
 **SKILL SHOWN - EDA, CORRELATION AND REGRESSION ANALYSIS**
 
