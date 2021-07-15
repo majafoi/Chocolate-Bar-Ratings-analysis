@@ -14,3 +14,6 @@ Table of contents is:
   1) Summaries - FIVENUM and graphics
   2) Correlation analysis + Shapiro-Wilk testing + testing for normality
   3) Regression analysis
+
+
+![image](https://user-images.githubusercontent.com/71931115/125779029-763efb3d-b316-411f-85b7-61cb554bf16b.png)
