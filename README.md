@@ -3,7 +3,6 @@
 
 Hello, everyone! In this repository, I'm going to present conclusions about analysis of a dataset called Chocolate Bar Ratings.
 
-# INTRODUCTION. ABOUT VARIABLES.
 We all know that chocolate is one of the favorite food in the whole world, possibly even yours, so you must've know that every chocolate has its own flavor and texture. People like Brady Brelinski, Founding Member of the Manhattan Chocolate Society (Flavors of Cacao) have compiled ratings of some of the variables of cocoa or chocolate.
 The database I found on Kaggle website (https://www.kaggle.com/rtatman/chocolate-bar-ratings) (there is an updated version on the original page - http://flavorsofcacao.com/chocolate_database.html), focuses only on plain dark chocolate.
 The variables that are being chosen here for analysis are:
